@@ -1,0 +1,5 @@
+# Print-Browser
+--适用于React框架
+由于React是虚拟Dom，之前查资料的方式再返回DOM的事件都不生效了
+经过验证可以通过iframe新建一个浏览器生成的print之后就不会影响打印
+也可以实现局部打印效果
